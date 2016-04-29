@@ -2,7 +2,7 @@
 defined('ABSPATH') or die('No script kiddies please!');
 
 /*
-  Plugin Name: WP HTML SITEMAP
+  Plugin Name: WP HTML PAGE SITEMAP
 
   Description: This Plugin is simple and light weighted plugin to generate Page sitemap.
 
